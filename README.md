@@ -1,4 +1,4 @@
 # Hello-world
-First Repository
+First Repository.
 
 Repo containing basic projects.
